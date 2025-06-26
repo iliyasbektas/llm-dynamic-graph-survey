@@ -35,7 +35,7 @@ llm-dynamic-graph-survey/
 ├── bibs/                    # (Optional) BibTeX files for individual works
 # llm-dynamic-graph-survey
 A survey of large language models for dynamic and evolving graphs
-
+```
 
 
 ---
