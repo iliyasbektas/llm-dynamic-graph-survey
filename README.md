@@ -39,7 +39,7 @@ llm-dynamic-graph-survey/
 
 ---
 
-## How to Contribute
+## 🧠 How to Contribute
 
 If you're collaborating or reviewing:
 
@@ -50,7 +50,7 @@ If you're collaborating or reviewing:
 
 ---
 
-## Related Works (WIP)
+## 📚 Related Works (WIP)
 
 - DynLLM
 - LLM4DyG
@@ -62,13 +62,13 @@ See `/summaries/` for details.
 
 ---
 
-## License
+## 📄 License
 
 MIT License – feel free to reuse materials with attribution.
 
 ---
 
-## Authors
+## ✍️ Authors
 
 **Iliyas Bektas**  
 PhD Student,   
