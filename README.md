@@ -30,17 +30,16 @@ llm-dynamic-graph-survey/
 │
 ├── papers/                  # PDFs of reviewed papers
 ├── summaries/               # Individual markdown summaries per paper
-├── code/                    # (Optional) Tools, scripts, or illustrative experiments
+├── code/                    # Tools, scripts, or illustrative experiments
 │   └── prompt_generation/   # For structure-aware LLM prompts
-├── bibs/                    # (Optional) BibTeX files for individual works
-# llm-dynamic-graph-survey
-A survey of large language models for dynamic and evolving graphs
+├── bibs/                    # BibTeX files for individual works
+
 ```
 
 
 ---
 
-## 🧠 How to Contribute
+## How to Contribute
 
 If you're collaborating or reviewing:
 
@@ -69,7 +68,7 @@ MIT License – feel free to reuse materials with attribution.
 
 ---
 
-## ✍️ Author
+## Authors
 
 **Iliyas Bektas**  
 PhD Student,   
