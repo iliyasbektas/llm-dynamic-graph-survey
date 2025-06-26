@@ -20,7 +20,7 @@ This repository contains materials for an ongoing survey paper that explores the
 ```text
 llm-dynamic-graph-survey/
 ├── README.md                # Project overview (this file)
-├── LICENSE                  # Open-source license (MIT or CC BY 4.0)
+├── LICENSE                  # Open-source license MIT
 │
 ├── paper/                   # Main survey manuscript
 │   ├── survey.tex           # LaTeX source
