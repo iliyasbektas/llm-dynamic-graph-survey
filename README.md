@@ -56,7 +56,7 @@ If you're collaborating or reviewing:
 - LLM4DyG
 - LKD4DyTAG
 - LLM-enabled UAV Graph Systems
-- Survey: LLMs for Graphs (KDD 2024)
+
 
 See `/summaries/` for details.
 
@@ -73,5 +73,9 @@ MIT License – feel free to reuse materials with attribution.
 **Iliyas Bektas**  
 PhD Student,   
 [ifb5104@psu.edu]
+
+**Suhang Wang**  
+Associate Professor,   
+[szw494@psu.edu]
 
 
