@@ -49,6 +49,7 @@ If you're collaborating or reviewing:
 - Add structured summaries to `summaries/` (one per paper)
 - Update `references.bib` with BibTeX citations
 - Add diagrams or visualizations to `paper/figures/`
+- Update the README.md to include the new paper entry in the appropriate year section
 
 ---
 
