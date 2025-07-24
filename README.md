@@ -2,10 +2,10 @@
 
 <p align="center">
 <a href=""> <img src="https://awesome.re/badge-flat.svg" alt="Awesome"></a>
-<a href=""> <img src="https://img.shields.io/github/stars/YOUR_REPO?style=flat-square&logo=github" alt="GitHub stars"></a>
-<a href=""> <img src="https://img.shields.io/github/forks/YOUR_REPO?style=flat-square&logo=github" alt="GitHub forks"></a>
-<a href=""> <img src="https://img.shields.io/github/issues/YOUR_REPO?style=flat-square&logo=github" alt="GitHub issues"></a>
-<a href=""> <img src="https://img.shields.io/github/last-commit/YOUR_REPO?style=flat-square&logo=github" alt="GitHub Last commit"></a>
+<a href=""> <img src="https://img.shields.io/github/stars/chrisliu298/awesome-llm-unlearning?style=flat-square&logo=github" alt="GitHub stars"></a>
+<a href=""> <img src="https://img.shields.io/github/forks/chrisliu298/awesome-llm-unlearning?style=flat-square&logo=github" alt="GitHub forks"></a>
+<a href=""> <img src="https://img.shields.io/github/issues/chrisliu298/awesome-llm-unlearning?style=flat-square&logo=github" alt="GitHub issues"></a>
+<a href=""> <img src="https://img.shields.io/github/last-commit/chrisliu298/awesome-llm-unlearning?style=flat-square&logo=github" alt="GitHub Last commit"></a>
 </p>
 
 ---
