@@ -120,7 +120,7 @@ If you're collaborating or reviewing:
 - [LLM-enabled UAV Graph Systems: Integrating Language Models for Dynamic Networked Decision-Making](https://arxiv.org/pdf/2407.20840)  
   - Author(s): Geng Sun, Yixian Wang, Dusit Niyato, Jiacheng Wang, Xinying Wang, H. Vincent Poor, Khaled B. Letaief  
   - Date: 2024-07-30  
-  - Venue: -  
+  - Venue: IEEE
 
 - [DynLLM: Integrating LLM-Based Profiles with Dynamic Graph Recommendation](https://arxiv.org/pdf/2405.07580)  
   - Author(s): Ziwei Zhao, Fake Lin, Xi Zhu, Zhi Zheng, Tong Xu, Shitian Shen, Xueying Li, Zikai Yin, Enhong Chen  
