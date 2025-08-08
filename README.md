@@ -55,20 +55,55 @@ If you're collaborating or reviewing:
 
 ### 2025
 
+- [Leveraging temporal validity of rules via LLMs for enhanced temporal knowledge graph reasoning](https://www.sciencedirect.com/science/article/pii/S0950705125011396?casa_token=pkKfK3WZ08AAAAAA:QTEaOlBPSVcRZvbooQpOTdKXHRf-gzTp3x9LBZUhPactEAJJ3XK4wtcGFBwUwK8JU6AmKx4oOBk)  
+  - Author(s): Qihong Pan, Limin Yao, Guojiang Shen, Xiao Han, Yichuan Chen, Xiangjie Kong  
+  - Date: 2025-10-09  
+  - Venue: Knowledge-Based Systems  
+
+- [Using Large Language Models to Tackle Fundamental Challenges in Graph Learning: A Comprehensive Survey](https://arxiv.org/pdf/2505.18475)  
+  - Author(s): Mengran Li, Pengyu Zhang, Wenbin Xing, Yijia Zheng, Klim Zaporojets, Junzhou Chen, Ronghui Zhang, Yong Zhang, Siyuan Gong, Jia Hu, Xiaolei Ma, Zhiyuan Liu, Paul Groth, Marcel Worring  
+  - Date: 2025-05-27  
+  - Venue: Preprint submitted to Elsevier  
+
 - [SceneLLM: Dynamic Scene Graph Generation via Video-to-Language Mapping and Large Language Models](https://arxiv.org/pdf/2412.11026)  
   - Author(s): Hang Zhang, Zhuoling Li, Jun Liu  
   - Date: 2025-05-07 (v2)  
   - Venue: -  
+
+- [Unifying Text Semantics and Graph Structures for Temporal Text-attributed Graphs with Large Language Models](https://arxiv.org/pdf/2503.14411)  
+  - Author(s): Siwei Zhang, Yun Xiong, Yateng Tang, Xi Chen, Zian Jia, Zehao Gu, Jiarong Xu, Jiawei Zhang  
+  - Date: 2025-05-19 (v2)  
+  - Venue: Preprint  
+
+- [A Survey on Temporal Interaction Graph Representation Learning: Progress, Challenges, and Opportunities](https://arxiv.org/pdf/2505.04461)  
+  - Author(s): Pengfei Jiao, Hongjiang Chen, Xuan Guo, Zhidong Zhao, Dongxiao He, Di Jin  
+  - Date: 2025-05-07  
+  - Venue: IJCAI 2025 Survey Track  
 
 - [LLM-DR: Rule Generation with Diffusion and LLM Constraints for Temporal Knowledge Graphs](https://ojs.aaai.org/index.php/AAAI/article/view/33249)  
   - Author(s): Kai Chen, Xin Song, Ye Wang, Liqun Gao, Aiping Li, Xiaojuan Zhao, Bin Zhou, Yalong Xie  
   - Date: 2025-04-11  
   - Venue: AAAI Technical Track on Data Mining & Knowledge Management I  
 
+- [Ignite Forecasting with SPARK: An Efficient Generative Framework for Refining LLMs in Temporal Knowledge Graph Forecasting](https://arxiv.org/pdf/2503.22748)  
+  - Author(s): Gongzhu Yin, Hongli Zhang, Yi Luo, Yuchen Yang, Kun Lu, Chao Meng  
+  - Date: 2025-03-27  
+  - Venue: -  
+
 - [LKD4DyTAG: LLM-Driven Knowledge Distillation for Dynamic Text-Attributed Graphs](https://arxiv.org/pdf/2502.10914)  
   - Author(s): Amit Roy, Ning Yan, Masood Mortazavi  
   - Date: 2025-02-15  
   - Venue: AAAI 2025  
+
+- [Can Large Language Models Effectively Modify Graphs?](https://openreview.net/pdf?id=WRKVA3TgSv)  
+  - Author(s): Cazamere Comrie, Jon Kleinberg  
+  - Date: 2025-02-05  
+  - Venue: ICLR 2025 (Submitted)  
+
+- [Interactions Exhibit Clustering Rhythm: A Prevalent Observation for Advancing Temporal Link Prediction](https://openreview.net/pdf?id=JZOPwrRYtI)  
+  - Author(s): Siwei Zhang, Xi Chen, Yun Xiong, Xixi Wu, Yizhu Jiao, Yao Zhang, Mingyang Zhang, Tengfei Liu, Weiqiang Wang, Jiawei Zhang  
+  - Date: 2025-02-05  
+  - Venue: ICLR 2025 (Submitted)  
 
 - [GraphVideoAgent: LLM-Guided Dynamic Entity Graph Reasoning for Long Video Understanding](https://arxiv.org/pdf/2501.15953)  
   - Author(s): Meng Chu, Yicong Li, Tat-Seng Chua  
@@ -80,10 +115,27 @@ If you're collaborating or reviewing:
   - Date: 2025-01-21  
   - Venue: -  
 
+- [Multivariate Wireless Link Quality Prediction Based on Pre-trained Large Language Models](https://arxiv.org/pdf/2501.11247)  
+  - Author(s): Zhuangzhuang Yan, Xinyu Gu, Shilong Fan, Zhenyu Liu  
+  - Date: 2025-01-20  
+  - Venue: -  
+
 - [LLM-Based Multi-Agent Systems are Scalable Graph Generative Models](https://arxiv.org/pdf/2410.09824)  
   - Author(s): Jiarui Ji, Runlin Lei, Jialing Bi, Zhewei Wei, Xu Chen, Yankai Lin, Xuchen Pan, Yaliang Li, Bolin Ding  
   - Date: 2025-01-06 (v6)  
   - Venue: -  
+
+- [Are Large Language Models Good Temporal Graph Learners?](https://arxiv.org/pdf/2506.05393)  
+  - Author(s): Shenyang Huang, Ali Parviz, Emma Kondrup, Zachary Yang, Zifeng Ding, Michael Bronstein, Reihaneh Rabbany, Guillaume Rabusseau  
+  - Date: 2025-06-03  
+  - Venue: -  
+
+- [Unlocking Multi-Modal Potentials for Link Prediction on Dynamic Text-Attributed Graphs](https://arxiv.org/pdf/2502.19651)  
+  - Author(s): Yuanyuan Xu, Wenjie Zhang, Ying Zhang, Xuemin Lin, Xiwei Xu  
+  - Date: 2025-08-01 (v2)  
+  - Venue: AAAI 2026 (Copyright © 2026 AAAI)  
+
+---
 
 ### 2024
 
@@ -107,6 +159,11 @@ If you're collaborating or reviewing:
   - Date: 2024-08-28 (v2)  
   - Venue: 2024 IEEE International Conference on Data Mining (ICDM)  
 
+- [LLM-enabled UAV Graph Systems: Integrating Language Models for Dynamic Networked Decision-Making](https://arxiv.org/pdf/2407.20840)  
+  - Author(s): Geng Sun, Yixian Wang, Dusit Niyato, Jiacheng Wang, Xinying Wang, H. Vincent Poor, Khaled B. Letaief  
+  - Date: 2024-07-30  
+  - Venue: -  
+
 - [CasMLN: Cascaded Multi-Level Learning on Temporal Heterogeneous Graphs with LLM Knowledge](https://dl.acm.org/doi/10.1145/3626772.3657731)  
   - Author(s): Fengyi Wang, Guanghui Zhu, Chunfeng Yuan, Yihua Huang  
   - Date: 2024-07-11  
@@ -117,16 +174,10 @@ If you're collaborating or reviewing:
   - Date: 2024-07-08 (v3)  
   - Venue: KDD 2024  
 
-- [LLM-enabled UAV Graph Systems: Integrating Language Models for Dynamic Networked Decision-Making](https://arxiv.org/pdf/2407.20840)  
-  - Author(s): Geng Sun, Yixian Wang, Dusit Niyato, Jiacheng Wang, Xinying Wang, H. Vincent Poor, Khaled B. Letaief  
-  - Date: 2024-07-30  
-  - Venue: IEEE
-
 - [DynLLM: Integrating LLM-Based Profiles with Dynamic Graph Recommendation](https://arxiv.org/pdf/2405.07580)  
   - Author(s): Ziwei Zhao, Fake Lin, Xi Zhu, Zhi Zheng, Tong Xu, Shitian Shen, Xueying Li, Zikai Yin, Enhong Chen  
   - Date: 2024-05-13  
   - Venue: -  
-
 ---
 
 ## 📄 License
