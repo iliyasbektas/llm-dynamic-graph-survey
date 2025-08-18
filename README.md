@@ -65,6 +65,7 @@ If you're collaborating or reviewing:
   - Date: 2025-05-27  
   - Venue: Preprint submitted to Elsevier  
 
+<!-- This looks like a CV paper. Is this relevant? -->
 - [SceneLLM: Dynamic Scene Graph Generation via Video-to-Language Mapping and Large Language Models](https://arxiv.org/pdf/2412.11026)  
   - Author(s): Hang Zhang, Zhuoling Li, Jun Liu  
   - Date: 2025-05-07 (v2)  
@@ -149,6 +150,7 @@ If you're collaborating or reviewing:
   - Date: 2024-11-04 (v3)  
   - Venue: NeurIPS 2024 Datasets and Benchmarks Track  
 
+<!-- Is this relevant? -->
 - [GAG: Dynamic and Textual Graph Generation via Large-Scale LLM-Based Agent Simulation](https://arxiv.org/html/2410.09824v1)  
   - Author(s): Jiarui Ji, Runlin Lei, Jialing Bi, Zhewei Wei, Yankai Lin, Xuchen Pan, Yaliang Li, Bolin Ding  
   - Date: 2024-10-13  
