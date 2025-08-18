@@ -161,7 +161,7 @@ If you're collaborating or reviewing:
   - Date: 2024-08-28 (v2)  
   - Venue: 2024 IEEE International Conference on Data Mining (ICDM)  
 
-- [LLM-enabled UAV Graph Systems: Integrating Language Models for Dynamic Networked Decision-Making](https://arxiv.org/pdf/2407.20840)  
+- [Large Language Model (LLM)-enabled Graphs in Dynamic Networking](https://arxiv.org/pdf/2407.20840)  
   - Author(s): Geng Sun, Yixian Wang, Dusit Niyato, Jiacheng Wang, Xinying Wang, H. Vincent Poor, Khaled B. Letaief  
   - Date: 2024-07-30  
   - Venue: -  
