@@ -86,6 +86,11 @@ If you're collaborating or reviewing:
   - Date: 2025-04-11  
   - Venue: AAAI Technical Track on Data Mining & Knowledge Management I  
 
+- [Marrying LLMs with Dynamic Forecasting: A Graph Mixture-of-expert Perspective](https://aclanthology.org/2025.findings-naacl.24.pdf)  
+  - Author(s): Dapeng Jiang, Xiao Luo  
+  - Date: 2025-04 (Findings of NAACL 2025)  
+  - Venue: Findings of the Association for Computational Linguistics: NAACL 2025  
+
 - [Ignite Forecasting with SPARK: An Efficient Generative Framework for Refining LLMs in Temporal Knowledge Graph Forecasting](https://arxiv.org/pdf/2503.22748)  
   - Author(s): Gongzhu Yin, Hongli Zhang, Yi Luo, Yuchen Yang, Kun Lu, Chao Meng  
   - Date: 2025-03-27  
@@ -156,6 +161,11 @@ If you're collaborating or reviewing:
   - Date: 2024-10-13  
   - Venue: -  
 
+- [AgentKit: Structured LLM Reasoning with Dynamic Graphs](https://arxiv.org/pdf/2404.11483)  
+  - Author(s): Yue Wu, Yewen Fan, So Yeon Min, Shrimai Prabhumoye, Stephen McAleer, Yonatan Bisk, Ruslan Salakhutdinov, Yuanzhi Li, Tom Mitchell  
+  - Date: 2024-07-24 (v2)  
+  - Venue: COLM 2024  
+
 - [AnomalyLLM: Few-shot Anomaly Edge Detection for Dynamic Graphs using Large Language Models](https://arxiv.org/pdf/2405.07626)  
   - Author(s): Shuo Liu, Di Yao, Lanting Fang, Zhetao Li, Wenbin Li, Kaiyu Feng, XiaoWen Ji, Jingping Bi  
   - Date: 2024-08-28 (v2)  
@@ -176,12 +186,16 @@ If you're collaborating or reviewing:
   - Date: 2024-07-08 (v3)  
   - Venue: KDD 2024  
 
+- [DARG: Dynamic Evaluation of Large Language Models via Adaptive Reasoning Graph](https://arxiv.org/pdf/2406.??? )  
+  - Author(s): Zhehao Zhang, Jiaao Chen, Diyi Yang  
+  - Date: 2024-06-25  
+  - Venue: -  
+
 - [DynLLM: Integrating LLM-Based Profiles with Dynamic Graph Recommendation](https://arxiv.org/pdf/2405.07580)  
   - Author(s): Ziwei Zhao, Fake Lin, Xi Zhu, Zhi Zheng, Tong Xu, Shitian Shen, Xueying Li, Zikai Yin, Enhong Chen  
   - Date: 2024-05-13  
   - Venue: -  
 ---
-
 ## 📄 License
 
 MIT License – feel free to reuse materials with attribution.
