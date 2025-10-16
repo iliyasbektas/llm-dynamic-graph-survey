@@ -186,7 +186,7 @@ If you're collaborating or reviewing:
   - Date: 2024-07-08 (v3)  
   - Venue: KDD 2024  
 
-- [DARG: Dynamic Evaluation of Large Language Models via Adaptive Reasoning Graph](https://arxiv.org/pdf/2406.??? )  
+- [DARG: Dynamic Evaluation of Large Language Models via Adaptive Reasoning Graph](https://arxiv.org/pdf/2406.17271)  
   - Author(s): Zhehao Zhang, Jiaao Chen, Diyi Yang  
   - Date: 2024-06-25  
   - Venue: -  
